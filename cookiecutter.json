@@ -1,0 +1,6 @@
+{
+    " ": "[cookiecutter-volunor]\n\nVariable ......... Example:\n  project_name ... greet-py\n  package_name ... greet\n  prog_name ...... greet\n\nProject structure:\n< project_name >\n  \u251c\u2500\u2500 src\n  \u2502 \u2514\u2500\u2500 < package_name >\n  \u2502     \u251c\u2500\u2500 commands\n  \u2502     \u2502 \u2514\u2500\u2500 greet.py\n  \u2502     \u2514\u2500\u2500 core\n  \u2502         \u2514\u2500\u2500 greet.py\n  \u2514\u2500\u2500 tests\n\nUsage:\n$ <prog_name> greet ...\n\n [Press enter to continue",
+    "project_name": null,
+    "package_name": null,
+    "prog_name": null
+}
